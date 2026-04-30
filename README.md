@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Johkimani/Johkimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **software developer** passionate about building **real-time, secure, and user-centered applications**.  
+My journey has been shaped by hands-on projects where reliability and user trust were essential.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming: **Python, Node.js, JavaScript**
+- Tools: **Git, Socket.IO, Nodemailer/Mailtrap**
+- Strengths: **Problem-solving, dependency conflict resolution, scalable feature design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Church Website**: Integrated **Socket.IO** for live updates and **secure backend email functionality** to protect sensitive communication while ensuring seamless user interaction.
+- **Gallery Section**: Designed protected routes with engaging UX features, balancing aesthetics with security.
+
+## 🌟 What Sets Me Apart
+- **Security-first mindset** in every project  
+- **Adaptability** in fast-paced environments  
+- **User-centered design** that blends technical depth with creativity  
+
+## 🎯 Goals
+To create software solutions that are **innovative, reliable, and inspire confidence** in both users and employers.
+##  😊 Fun facts
+I like watching marathons .
+Hobbies: Anime, building things
+
+---
+📫 Let’s connect and collaborate on impactful projects!
+email: kimanijohn1236@gmail.com
